@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./Output/images/</folder>
+  <filename>ezgif-frame-097_jpg.rf.5a636a4c8729bcdd9886869c345dfcec_1.jpg</filename>
+  <path>./Output/images/ezgif-frame-097_jpg.rf.5a636a4c8729bcdd9886869c345dfcec_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin>191</ymin>
+      <xmax>250</xmax>
+      <ymax>263</ymax>
+    </bndbox>
+  </object>
+</annotation>

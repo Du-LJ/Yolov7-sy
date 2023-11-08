@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./Output/images/</folder>
+  <filename>new_fire_fire-650_png_jpg.rf.8737c623425f11b5207b5a7bab90b99a_1.jpg_pro.jpg</filename>
+  <path>./Output/images/new_fire_fire-650_png_jpg.rf.8737c623425f11b5207b5a7bab90b99a_1.jpg_pro.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>467</xmin>
+      <ymin>381</ymin>
+      <xmax>549</xmax>
+      <ymax>419</ymax>
+    </bndbox>
+  </object>
+</annotation>

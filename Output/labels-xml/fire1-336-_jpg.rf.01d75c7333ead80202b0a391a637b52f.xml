@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>MyDataset</folder>
+		<filename>fire1-336-_jpg.rf.01d75c7333ead80202b0a391a637b52f.jpg</filename>
+		<size>
+			<width>640</width>
+			<height>640</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>2</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>213</xmin>
+				<ymin>199</ymin>
+				<xmax>371</xmax>
+				<ymax>331</ymax>
+			</bndbox>
+		</object>
+	</annotation>

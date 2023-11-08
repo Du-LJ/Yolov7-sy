@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./Output/images/</folder>
+  <filename>Img_1922_jpg.rf.31e4ec706c3a80fb54739f001baba518_1.jpg</filename>
+  <path>./Output/images/Img_1922_jpg.rf.31e4ec706c3a80fb54739f001baba518_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>240</ymin>
+      <xmax>303</xmax>
+      <ymax>518</ymax>
+    </bndbox>
+  </object>
+</annotation>

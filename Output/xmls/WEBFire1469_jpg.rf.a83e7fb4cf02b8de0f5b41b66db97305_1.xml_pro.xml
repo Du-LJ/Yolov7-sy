@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./Output/images/</folder>
+  <filename>WEBFire1469_jpg.rf.a83e7fb4cf02b8de0f5b41b66db97305_1.jpg_pro.jpg</filename>
+  <path>./Output/images/WEBFire1469_jpg.rf.a83e7fb4cf02b8de0f5b41b66db97305_1.jpg_pro.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>269</xmin>
+      <ymin>323</ymin>
+      <xmax>395</xmax>
+      <ymax>383</ymax>
+    </bndbox>
+  </object>
+</annotation>

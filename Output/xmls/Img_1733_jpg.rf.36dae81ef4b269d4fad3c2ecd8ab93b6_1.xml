@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./Output/images/</folder>
+  <filename>Img_1733_jpg.rf.36dae81ef4b269d4fad3c2ecd8ab93b6_1.jpg</filename>
+  <path>./Output/images/Img_1733_jpg.rf.36dae81ef4b269d4fad3c2ecd8ab93b6_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>202</xmin>
+      <ymin>376</ymin>
+      <xmax>227</xmax>
+      <ymax>409</ymax>
+    </bndbox>
+  </object>
+</annotation>

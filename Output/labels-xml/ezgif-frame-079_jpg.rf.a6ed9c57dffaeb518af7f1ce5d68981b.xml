@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>MyDataset</folder>
+		<filename>ezgif-frame-079_jpg.rf.a6ed9c57dffaeb518af7f1ce5d68981b.jpg</filename>
+		<size>
+			<width>640</width>
+			<height>640</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>3</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>184</xmin>
+				<ymin>162</ymin>
+				<xmax>272</xmax>
+				<ymax>338</ymax>
+			</bndbox>
+		</object>
+	</annotation>

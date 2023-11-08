@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>MyDataset</folder>
+		<filename>0121_jpg.rf.ef7155472638725e99d236fc72e73247.jpg</filename>
+		<size>
+			<width>640</width>
+			<height>640</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>2</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>337</xmin>
+				<ymin>343</ymin>
+				<xmax>381</xmax>
+				<ymax>403</ymax>
+			</bndbox>
+		</object>
+	</annotation>

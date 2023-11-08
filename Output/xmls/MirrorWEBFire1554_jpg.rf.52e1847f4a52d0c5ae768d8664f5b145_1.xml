@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./Output/images/</folder>
+  <filename>MirrorWEBFire1554_jpg.rf.52e1847f4a52d0c5ae768d8664f5b145_1.jpg</filename>
+  <path>./Output/images/MirrorWEBFire1554_jpg.rf.52e1847f4a52d0c5ae768d8664f5b145_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>305</xmin>
+      <ymin>215</ymin>
+      <xmax>371</xmax>
+      <ymax>275</ymax>
+    </bndbox>
+  </object>
+</annotation>

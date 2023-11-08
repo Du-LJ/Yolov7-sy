@@ -1,0 +1,26 @@
+<annotation>
+  <folder>./Output/images/</folder>
+  <filename>fire1-910-_jpg.rf.99681642f11bd0f7bb81ebeead1c630b_1.jpg</filename>
+  <path>./Output/images/fire1-910-_jpg.rf.99681642f11bd0f7bb81ebeead1c630b_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>357</xmin>
+      <ymin>363</ymin>
+      <xmax>399</xmax>
+      <ymax>455</ymax>
+    </bndbox>
+  </object>
+</annotation>
